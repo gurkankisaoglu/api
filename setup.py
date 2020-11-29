@@ -8,7 +8,7 @@ setup(
     install_requires=[
         # Packages from PyPi
     ],
-    packages=["api"],
+    packages=["task"],
     include_package_data=True,
     zip_safe=False,
 )
